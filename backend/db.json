@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Notebook Samsung",
+      "price": 6002.55
+    },
+    {
+      "id": 3,
+      "name": "Xiaomi mi10",
+      "price": 3999.99
+    },
+    {
+      "name": "Geladeira",
+      "price": "2909.28",
+      "id": 4
+    },
+    {
+      "name": "Home",
+      "price": "100000.00",
+      "id": 6
+    }
+  ]
+}
